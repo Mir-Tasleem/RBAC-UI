@@ -61,7 +61,7 @@ export default function App() {
         <div className="container nav-container">
           <div className="nav-brand">
             <ShieldCheck size={32} className="brand-icon" />
-            <span>Access Control</span>
+            <span>Role Based Access Control</span>
           </div>
           <button className="button button-icon">
             <Settings size={24} />
